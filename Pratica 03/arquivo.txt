@@ -1,0 +1,2 @@
+O fatorial de 5 é 120
+O fatorial de 7 é 5040
