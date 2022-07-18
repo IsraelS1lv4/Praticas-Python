@@ -64,7 +64,11 @@ Se o arquivo já existir ele irá sobrescrever todo o conteúdo.
 
 EXERCÍCIO 2:
 Crie um programa que solicita ao usuário um número para ser calculado o seu fatorial [pode usar math.factorial(n)]. Em seguida, salve o resultado em um arquivo, conforme o exemplo a seguir:
+```
 O fatorial de 5 é 120
+```
 A cada execução do programa, a informação anterior do arquivo não deve ser apagada, apenas são adicionadas novas linhas, conforme exemplo adiante:
+```
 O fatorial de 5 é 120
 O fatorial de 7 é 5040
+```
